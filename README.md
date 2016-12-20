@@ -1,4 +1,6 @@
-# sf_kicad_pretty
+# KiCad off line fp
+
+Using KiCad footprint offline!
 
 **updated: work with kicad 4.0.4**
 
