@@ -38,7 +38,8 @@ fkisysmod.close()
 
 # Warning:
 # please replace <postgres> with your own user name
-env['HOME'] = 'C:/Users/postgres/AppData/Roaming/kicad'
+if os.name is 'nt':
+    env['HOME'] = 'C:/Users/postgres/AppData/Roaming/kicad'
 topath = os.path.join(env['HOME'], 'fp-lib-table')
 
 print(".. copying: ", fp_new)

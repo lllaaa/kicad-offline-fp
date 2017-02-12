@@ -280,3 +280,63 @@
 [submodule "kicad/Wire_Pads.pretty"]
 	path = kicad/Wire_Pads.pretty
 	url = https://github.com/KiCad/Wire_Pads.pretty
+[submodule "kicad/Buttons_Switches_THT.pretty"]
+	path = kicad/Buttons_Switches_THT.pretty
+	url = https://github.com/KiCad/Buttons_Switches_THT.pretty
+[submodule "kicad/Capacitors_THT.pretty"]
+	path = kicad/Capacitors_THT.pretty
+	url = https://github.com/KiCad/Capacitors_THT.pretty
+[submodule "kicad/Connectors_Harwin.pretty"]
+	path = kicad/Connectors_Harwin.pretty
+	url = https://github.com/KiCad/Connectors_Harwin.pretty
+[submodule "kicad/Connectors_Hirose.pretty"]
+	path = kicad/Connectors_Hirose.pretty
+	url = https://github.com/KiCad/Connectors_Hirose.pretty
+[submodule "kicad/Connectors_JAE.pretty"]
+	path = kicad/Connectors_JAE.pretty
+	url = https://github.com/KiCad/Connectors_JAE.pretty
+[submodule "kicad/Connectors_JST.pretty"]
+	path = kicad/Connectors_JST.pretty
+	url = https://github.com/KiCad/Connectors_JST.pretty
+[submodule "kicad/Connectors_Mini-Universal.pretty"]
+	path = kicad/Connectors_Mini-Universal.pretty
+	url = https://github.com/KiCad/Connectors_Mini-Universal.pretty
+[submodule "kicad/Connectors_Multicomp.pretty"]
+	path = kicad/Connectors_Multicomp.pretty
+	url = https://github.com/KiCad/Connectors_Multicomp.pretty
+[submodule "kicad/Connectors_Phoenix.pretty"]
+	path = kicad/Connectors_Phoenix.pretty
+	url = https://github.com/KiCad/Connectors_Phoenix.pretty
+[submodule "kicad/Connectors_Samtec.pretty"]
+	path = kicad/Connectors_Samtec.pretty
+	url = https://github.com/KiCad/Connectors_Samtec.pretty
+[submodule "kicad/Connectors_TE-Connectivity.pretty"]
+	path = kicad/Connectors_TE-Connectivity.pretty
+	url = https://github.com/KiCad/Connectors_TE-Connectivity.pretty
+[submodule "kicad/Connectors_Terminal_Blocks.pretty"]
+	path = kicad/Connectors_Terminal_Blocks.pretty
+	url = https://github.com/KiCad/Connectors_Terminal_Blocks.pretty
+[submodule "kicad/Connectors_WAGO.pretty"]
+	path = kicad/Connectors_WAGO.pretty
+	url = https://github.com/KiCad/Connectors_WAGO.pretty
+[submodule "kicad/Connectors.pretty"]
+	path = kicad/Connectors.pretty
+	url = https://github.com/KiCad/Connectors.pretty
+[submodule "kicad/Diodes_THT.pretty"]
+	path = kicad/Diodes_THT.pretty
+	url = https://github.com/KiCad/Diodes_THT.pretty
+[submodule "kicad/Displays.pretty"]
+	path = kicad/Displays.pretty
+	url = https://github.com/KiCad/Displays.pretty
+[submodule "kicad/Relays_THT.pretty"]
+	path = kicad/Relays_THT.pretty
+	url = https://github.com/KiCad/Relays_THT.pretty
+[submodule "kicad/Resistors_THT.pretty"]
+	path = kicad/Resistors_THT.pretty
+	url = https://github.com/KiCad/Resistors_THT.pretty
+[submodule "kicad/RF_Modules.pretty"]
+	path = kicad/RF_Modules.pretty
+	url = https://github.com/KiCad/RF_Modules.pretty
+[submodule "kicad/Shielding_Cabinets.pretty"]
+	path = kicad/Shielding_Cabinets.pretty
+	url = https://github.com/KiCad/Shielding_Cabinets.pretty
