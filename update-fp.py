@@ -1,8 +1,10 @@
 #!/usr/bin/python
 
 # update all the subfolders under localdir
-#
 # code modified from `codeboy2k`
+# (deprecated)
+# you can use
+# $ git submodule update --recursive
 
 import re
 import os
