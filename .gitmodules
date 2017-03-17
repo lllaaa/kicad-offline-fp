@@ -340,3 +340,33 @@
 [submodule "kicad/Shielding_Cabinets.pretty"]
 	path = kicad/Shielding_Cabinets.pretty
 	url = https://github.com/KiCad/Shielding_Cabinets.pretty
+[submodule "kicad/Housings_BGA.pretty"]
+	path = kicad/Housings_BGA.pretty
+	url = https://github.com/KiCad/Housings_BGA.pretty
+[submodule "kicad/Housings_LCC.pretty"]
+	path = kicad/Housings_LCC.pretty
+	url = https://github.com/KiCad/Housings_LCC.pretty
+[submodule "kicad/Housings_LGA.pretty"]
+	path = kicad/Housings_LGA.pretty
+	url = https://github.com/KiCad/Housings_LGA.pretty
+[submodule "kicad/Housings_PGA.pretty"]
+	path = kicad/Housings_PGA.pretty
+	url = https://github.com/KiCad/Housings_PGA.pretty
+[submodule "kicad/Inductors_SMD.pretty"]
+	path = kicad/Inductors_SMD.pretty
+	url = https://github.com/KiCad/Inductors_SMD.pretty
+[submodule "kicad/Inductors_THT.pretty"]
+	path = kicad/Inductors_THT.pretty
+	url = https://github.com/KiCad/Inductors_THT.pretty
+[submodule "kicad/Modules.pretty"]
+	path = kicad/Modules.pretty
+	url = https://github.com/KiCad/Modules.pretty
+[submodule "kicad/Transformers_SMD.pretty"]
+	path = kicad/Transformers_SMD.pretty
+	url = https://github.com/KiCad/Transformers_SMD.pretty
+[submodule "kicad/Transformers_THT.pretty"]
+	path = kicad/Transformers_THT.pretty
+	url = https://github.com/KiCad/Transformers_THT.pretty
+[submodule "kicad/Enclosures.pretty"]
+	path = kicad/Enclosures.pretty
+	url = https://github.com/KiCad/Enclosures.pretty
